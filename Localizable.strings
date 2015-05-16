@@ -1041,19 +1041,19 @@
 	<key>wifi_camera_state_message</key>
 	<string>Camera in video record mode and can not save settings</string>
 	<key>wifi_content_alter_success</key>
-	<string>Wi-Fi settings saved, reconnect camera!</string>
+	<string>บันทึกการตั้งค่า Wi-Fi, เชื่อมต่อกล้องใหม่อีกครั้ง!</string>
 	<key>wifi_name_label</key>
-	<string>Wi-Fi name: </string>
+	<string>ชื่อ Wi-Fi: </string>
 	<key>wifi_name_placeholder</key>
 	<string>SSID</string>
 	<key>wifi_password_hint</key>
-	<string>Password hint</string>
+	<string>คำใบ้รหัสผ่าน</string>
 	<key>wifi_password_lalbel</key>
-	<string>Wi-Fi password: </string>
+	<string>รหัสผ่าน Wi-Fi: </string>
 	<key>wifi_password_placeholder</key>
-	<string>Enter new password</string>
+	<string>กรอกรหัสผ่านใหม่</string>
 	<key>wifi_password_show_label</key>
-	<string>Show password</string>
+	<string>แสดงรหัสผ่าน</string>
 	<key>wrap_enable</key>
 	<string>Warp correction</string>
 </dict>
